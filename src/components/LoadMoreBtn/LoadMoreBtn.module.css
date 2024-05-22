@@ -2,7 +2,7 @@
   width: 150px;
   height: 50px;
   border-radius: 10px;
-  background-color: #2ec46fb9;
+  background-color: #0c1bc0dc;
   font-size: 18px;
   border: solid 1px black;
 }
@@ -13,5 +13,5 @@
 }
 .btn:focus,
 .btn:hover {
-  background-color: rgb(14, 119, 31);
+  background-color: rgb(9, 194, 191);
 }
